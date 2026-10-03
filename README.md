@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.gearguard.png" alt="GearGuard" width="500">
+</p>
+
 # GearGuard 🛡️ — Manutenção Preditiva Inteligente
 
 Este projeto foi desenvolvido como o **Projeto Avaliativo do Módulo 1** do curso de Desenvolvimento de IA para Análise Preditiva. 
