@@ -107,13 +107,15 @@ Clique no botão "Escolher Arquivos" e selecione o arquivo "manutencao_preditiva
 
 ***Linguagem:*** Python 
 
-***Manipulação de Dados:*** pandas, numpy
+***Ferramenta Ambiente:*** google.colab
+
+***Manipulação de Dados:*** pandas, numpy, io
 
 ***Visualização Gráfica:*** matplotlib, seaborn
 
 ***Machine Learning:*** scikit-learn
 
-***Balanceamento de Dados:*** imbalanced-learn (SMOTE)
+***Balanceamento de Dados:*** imbalanced-learn (SMOTE) e RandomUnderSampler (RUS)
 
 ---
 ***Desenvolvido por Otávio Augusto Reis Nascimento***
