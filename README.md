@@ -11,7 +11,7 @@ O objetivo do **GearGuard** é criar um sistema inteligente capaz de prever falh
 
 ## Apresentação do Projeto
 
-
+[ Clique aqui para visualizar a apresentação](https://drive.google.com/file/d/1zWaoJdRm2b6NIb_dcZd1bS1k2Kp6m14E/view?usp=sharing)
 ---
 
 ## O que o Projeto Analisa
